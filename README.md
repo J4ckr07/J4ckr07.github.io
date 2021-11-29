@@ -1,2 +1,2 @@
 # J4ckr07.github.io
-Dumb stupid website.
+Dumb stupid website with absolutely zero purpose...

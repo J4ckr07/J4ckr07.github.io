@@ -1,0 +1,9 @@
+@font-face {
+    font-family: CrikeySquats;
+    src: url(Fonts/Font.ttf);
+}
+  
+h1 {
+    font-family: CrikeySquats;
+    color: white;
+}

@@ -3,7 +3,16 @@
     src: url(Fonts/Font.ttf);
 }
   
+p {
+    font-family: CrikeySquats;
+    color: white;
+    font-size: 20px;
+    line-height: normal;
+}
+
 h1 {
     font-family: CrikeySquats;
     color: white;
+    line-height: normal;
+    text-decoration: underline;
 }
